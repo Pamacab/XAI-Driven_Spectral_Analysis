@@ -3,12 +3,14 @@ clc;
 clear;
 %%%%%%%%%%%%%%%%
 
-% % Añadimos los path que puede necesitar el programa %%
-
 path('Data',path)
 path('Modelos',path)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Author: Patricia Amado Caballero
+% Email: patricia.amado@uva.es
+% Date: 2025-08-27
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -69,4 +71,5 @@ xlabel('Time (s)')
 colorbar;
 
 save("MediumOcclusionMap_samplePatient", "map_patient");
+
 
