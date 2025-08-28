@@ -11,15 +11,15 @@ Example of a Gaussian Mixture Model over the sample patient.
 
 ### `MaxIndex.mat`
 
-Position of the best classify coughs by model_0
+Position of the best classify coughs by model_0.
 
 ### `Model_0.mat`
 
-The trained network example
+The trained network example.
 
 ### `Predictions_samplePatient_model0.mat`
 
-Prediction of model_0 over the sample patient
+Prediction of model_0 over the sample patient.
 
 ### `SamplePatientSpectrograms.mat`
 
