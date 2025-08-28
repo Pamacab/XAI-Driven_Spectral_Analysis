@@ -3,30 +3,31 @@
 ## File Descriptions
 ### `CoughIndex.mat`
 
-This MATLAB script is the main entry point for occlusion map analysis in the context of model activations. It allow us for generating and analyzing occlusion maps from the activations of a deep learning model, using spectrograms as input data.
+Indexes of the coughs in the audio signal for the sample patient.
 
 ### `GMM_SamplePatient.mat`
 
-This script is responsible for performing the fundamental calculation of the occlusion map. 
+Example of a Gaussian Mixture Model over the sample patient. 
 
 ### `MaxIndex.mat`
 
-This MATLAB script implements a 2D Gaussian Mixture Model (GMM), designed to fit and visualize complex data distributions, such as those that might be derived from an occlusion map. 
+Position of the best classify coughs by model_0
 
 ### `Model_0.mat`
 
-This script focuses on generating masks from occlusion maps, which allows highlighting regions of interest in the original signal. This process is fundamental for interpretability, as it helps identify which parts of the input are most relevant for a specific model decision or activation. 
+The trained network example
 
 ### `Predictions_samplePatient_model0.mat`
 
-Automates the process of extracting spectral features from a dataset of spectrograms, preparing the data for subsequent analysis or modeling stages.
+Prediction of model_0 over the sample patient
 
 ### `SamplePatientSpectrograms.mat`
 
-Function responsible for calculating various spectral features from an input spectrogram. 
+Spectrograms calculated over the audio signa of sample patient.
 
 
 ### `Weighted_Spectrogram_Pt0.7.mat, Weighted_Spectrograms_ARD.mat, Weighted_Spectrograms_CANCER.mat, Weighted_Spectrograms_COPD.mat, Weighted_Spectrograms_NonCOPD.mat`
+A example of disease representative spectrogramas calculated applying tha masks.
 
 
 	
