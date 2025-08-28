@@ -23,7 +23,7 @@ inputSize=net.Layers(1).InputSize(1:2);
 classes=net.Layers(end).Classes; 
 
 %%Load indexes for cough images and for images with highest activation
-load("CaughIndex.mat")
+load("CoughIndex.mat")
 load ('MaxIndex.mat'); 
 %%Load the spectrograms
 load("SamplePatientSpectrograms.mat")
@@ -71,5 +71,6 @@ xlabel('Time (s)')
 colorbar;
 
 save("MediumOcclusionMap_samplePatient", "map_patient");
+
 
 
