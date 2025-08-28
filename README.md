@@ -1,3 +1,4 @@
+# XAI-Driven_Spectral_Analysis
 This repository contains MATLAB code for the analysis of occlusion maps, spectral features and the application of Gaussian Mixture Models (GMM) in the context of signal processing for the analysis of neural network activations in data such as audio spectrograms.
 
 ## File Descriptions
