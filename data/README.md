@@ -27,7 +27,7 @@ Spectrograms calculated over the audio signa of sample patient.
 
 
 ### `Weighted_Spectrogram_Pt0.7.mat, Weighted_Spectrograms_ARD.mat, Weighted_Spectrograms_CANCER.mat, Weighted_Spectrograms_COPD.mat, Weighted_Spectrograms_NonCOPD.mat`
-A example of disease representative spectrogramas calculated applying tha masks.
+An example of disease representative spectrograms calculated applying tha masks.
 
 
 	
