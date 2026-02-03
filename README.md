@@ -25,3 +25,6 @@ Automates the process of extracting spectral features from a dataset of spectrog
 ### `compute_spectral_features.m`
 
 Function responsible for calculating various spectral features from an input spectrogram. 
+
+### `DOI`
+10.5281/zenodo.18475609
