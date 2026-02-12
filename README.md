@@ -30,6 +30,6 @@ Function responsible for calculating various spectral features from an input spe
 10.5281/zenodo.18475609
 
 ### `License`
-El código fuente está bajo licencia MIT.
+The source code in this repository is licensed under the MIT License.
 
-La documentación y los contenidos están bajo licencia Creative Commons CC BY 4.0.
+All documentation are licensed under the Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0) license.
