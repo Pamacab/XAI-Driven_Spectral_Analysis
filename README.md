@@ -28,3 +28,8 @@ Function responsible for calculating various spectral features from an input spe
 
 ### `DOI`
 10.5281/zenodo.18475609
+
+### `License`
+El código fuente está bajo licencia MIT.
+
+La documentación y los contenidos están bajo licencia Creative Commons CC BY 4.0.
